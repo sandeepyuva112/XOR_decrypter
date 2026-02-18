@@ -1,0 +1,5 @@
+{
+  "name": "XOR Cipher Lab",
+  "description": "A sophisticated file encryption and decryption tool utilizing symmetric XOR logic. Securely process any file type with custom-generated keys, assisted by Gemini AI for file analysis and security recommendations.",
+  "requestFramePermissions": []
+}
